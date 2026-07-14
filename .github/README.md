@@ -1,11 +1,11 @@
 # Master Packager Dev
 Software that enables developers to create and automate professional MSI/MSIX packages ridiculously easily.
-Focus on Your app not the installer.
+Focus on your app, not the installer.
 
 ## About this repository
-This repository is used for hosting public releases of Master Packager Dev, as well as tracking issues submited by community.
+This repository is used for hosting public releases of Master Packager Dev, as well as tracking issues submitted by the community.
 
-## Master Packager Dav homepage
+## Master Packager Dev homepage
 [https://www.masterpackager.com/developer](https://www.masterpackager.com/developer)
 
 ## Releases
